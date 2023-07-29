@@ -1,7 +1,11 @@
 #Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
+
 Model trained in ibm cloud using Tensorflow and web-app made using flask.
+
 #Dataset Link
+
 https://drive.google.com/file/d/11-FdbTaJVrpwQmaCLV5gYYDQlfTeD0uz/view?usp=sharing
+
 #Project screenshots
 #Homepage
 ![homepage](https://github.com/gnana20/ai/assets/140624660/5f18befe-1762-4a22-a3d2-68d8aaa18b5e)
